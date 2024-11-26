@@ -60,8 +60,8 @@ nav a:hover {
 
 .grafico {
     margin-top: 3rem;
-    filter: box-shadow(1px 1px 20px rgb(186, 206, 192));
-    border: 8px green double;
+    filter: box-shadow(1px 1px 20px rgb(70, 98, 219));
+    border: 8px rgb(54, 84, 219) double;
 }
 
 .graficos-container__texto {
